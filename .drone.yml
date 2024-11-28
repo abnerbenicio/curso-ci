@@ -13,6 +13,3 @@ steps:
     commands: 
       - python -c "print('rodando python')"
 
-trigger:
-  branch:
-    - main
